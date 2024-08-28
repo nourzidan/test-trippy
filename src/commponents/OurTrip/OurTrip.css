@@ -1,0 +1,19 @@
+.ourtriptitle{
+    text-align: center;
+}
+
+.ourtrip{
+    margin: 4rem 6rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2rem;  
+    height: 100%;
+}
+@media screen and (max-width:992px){
+    .ourtrip{
+        flex-wrap: wrap;
+        margin: 2rem 3rem;
+    }
+    
+}
