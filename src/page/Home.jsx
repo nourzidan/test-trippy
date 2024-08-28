@@ -10,7 +10,7 @@ export default function Home() {
   
   return (
     <>   
-      <Hero img="/assets/img/vip-2-2048x1365.jpeg" title='Your Journey Your Story' desc='Choose Your Favourit Destination' btn={{show:true , content:"Travel Now"}}/>
+      <Hero img="/test-trippy/assets/img/vip-2-2048x1365.jpeg" title='Your Journey Your Story' desc='Choose Your Favourit Destination' btn={{show:true , content:"Travel Now"}}/>
       <PopularDestinations/> 
       <OurTrip/>
       </>

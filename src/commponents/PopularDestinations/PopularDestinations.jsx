@@ -11,8 +11,8 @@ export default function PopularDestinations() {
       the hike up to the crater is a mere 45 minutes, and is easy enough
        for beginners. Guides will assist you most of the way, and you il see
          the peculiar environment found on an active volcano, including volcanic rocks and steam vents. The hike can be dusty and hot, so plan for an early morning trip, and then unwind with some bulalo before heading back home."
-         firstImage="/assets/img/1.jpg"
-         secImage="/assets/img/11.jpg"
+         firstImage="/test-trippy/assets/img/1.jpg"
+         secImage="/test-trippy/assets/img/11.jpg"
          reverse=''/>
 
 <PopularContainer title="Mt. Daguldul, Batangas" desc="One
@@ -20,8 +20,8 @@ export default function PopularDestinations() {
       the hike up to the crater is a mere 45 minutes, and is easy enough
        for beginners. Guides will assist you most of the way, and you il see
          the peculiar environment found on an active volcano, including volcanic rocks and steam vents. The hike can be dusty and hot, so plan for an early morning trip, and then unwind with some bulalo before heading back home."
-         firstImage="/assets/img/11.jpg"
-         secImage="/assets/img/1.jpg"
+         firstImage="/test-trippy/assets/img/11.jpg"
+         secImage="/test-trippy/assets/img/1.jpg"
          reverse='reverse'/>
         
     </div>
